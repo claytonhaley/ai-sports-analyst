@@ -28,18 +28,5 @@ Enter your question or prompt (or 'exit' to quit): Who is the best team in colle
 
 5. Example Output
 ```
----CHECK DOCUMENT RELEVANCE TO QUESTION---
----GRADE: DOCUMENT RELEVANT---
----GRADE: DOCUMENT NOT RELEVANT---
----GRADE: DOCUMENT NOT RELEVANT---
----GRADE: DOCUMENT NOT RELEVANT---
----GRADE: DOCUMENT RELEVANT---
----ASSESS GRADED DOCUMENTS---
----DECISION: GENERATE---
----GENERATE---
----CHECK HALLUCINATIONS---
----DECISION: GENERATION IS GROUNDED IN DOCUMENTS---
----GRADE GENERATION vs QUESTION---
----DECISION: GENERATION ADDRESSES QUESTION---
 Right now, it looks like Auburn is strutting its stuff as the best team in college basketball. They held onto the No. 1 spot despite a hiccup against Florida, which shows some serious resilience. The Tigers are proving they can handle the pressure, and that’s what you want heading into March Madness. Plus, with the way the season's been shaking out, it’s clear Alabama is also in the mix, but Auburn's got that edge. Keep an eye on them; they’re not just a flash in the pan. So, if you’re looking for the top dog, it’s Auburn for now!
 ```
